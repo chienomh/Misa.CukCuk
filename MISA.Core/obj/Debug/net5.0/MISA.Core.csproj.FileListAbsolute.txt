@@ -1,0 +1,12 @@
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.csprojAssemblyReference.cache
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfoInputs.cache
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.AssemblyInfo.cs
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\bin\Debug\net5.0\MISA.Core.deps.json
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\bin\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\ref\MISA.Core.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Core\obj\Debug\net5.0\MISA.Core.pdb

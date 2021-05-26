@@ -1,0 +1,15 @@
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.AssemblyInfo.cs
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.deps.json
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\bin\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\bin\Debug\net5.0\MISA.Infrastructure.pdb
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\bin\Debug\net5.0\MISA.Core.pdb
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.csproj.CopyComplete
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\ref\MISA.Infrastructure.dll
+C:\Users\Ta Duc Chien\source\repos\MISA.cukcuk.Api.kt\MISA.Infrastructure\obj\Debug\net5.0\MISA.Infrastructure.pdb
